@@ -1,0 +1,61 @@
+20:12:33.877 [main] INFO  factory.BaseClass - Able to see the list of bike models in dropdown
+20:12:34.120 [main] INFO  factory.BaseClass - Close the browser
+20:12:34.120 [main] INFO  factory.BaseClass - ============Scenario Ended============
+20:12:36.610 [main] INFO  factory.BaseClass - ============Scenario started============
+20:12:36.610 [main] INFO  factory.BaseClass - Launch the browser
+20:12:42.439 [main] INFO  factory.BaseClass - Select upcoming bikes
+20:12:48.731 [main] INFO  factory.BaseClass - Select the manufacturer dropdown
+20:12:49.280 [main] INFO  factory.BaseClass - Select honda in manufacturer dropdown
+20:12:49.281 [main] INFO  factory.BaseClass - Select honda bikes
+20:12:50.631 [main] INFO  factory.BaseClass - Verify the navigation
+20:12:50.865 [main] INFO  factory.BaseClass - Close the browser
+20:12:50.865 [main] INFO  factory.BaseClass - ============Scenario Ended============
+20:12:53.446 [main] INFO  factory.BaseClass - ============Scenario started============
+20:12:53.446 [main] INFO  factory.BaseClass - Launch the browser
+20:12:58.243 [main] INFO  factory.BaseClass - User is on the home page
+20:12:59.267 [main] INFO  factory.BaseClass - Verify the search box
+20:12:59.765 [main] INFO  factory.BaseClass - Enter the upcoming honda bikes
+20:13:00.699 [main] INFO  factory.BaseClass - Close the browser
+20:13:00.699 [main] INFO  factory.BaseClass - ============Scenario Ended============
+20:13:02.636 [main] INFO  factory.BaseClass - ============Scenario started============
+20:13:02.637 [main] INFO  factory.BaseClass - Launch the browser
+20:13:07.021 [main] INFO  factory.BaseClass - User is on the used cars page
+20:13:10.549 [main] INFO  factory.BaseClass - Click on Read more option
+20:13:10.719 [main] INFO  factory.BaseClass - Display the popular models in chennai
+20:13:10.776 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+20:13:10.776 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+20:13:10.777 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+20:13:10.779 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+20:13:10.779 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+20:13:10.780 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+20:13:10.780 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+20:13:10.780 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:13:10.781 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+20:13:10.781 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+20:13:10.782 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+20:13:10.782 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+20:13:10.782 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+20:13:10.783 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+20:13:10.783 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+20:13:10.783 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:13:10.784 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+20:13:10.904 [main] INFO  factory.BaseClass - Close the browser
+20:13:10.904 [main] INFO  factory.BaseClass - ============Scenario Ended============
+20:13:12.879 [main] INFO  factory.BaseClass - ============Scenario started============
+20:13:12.879 [main] INFO  factory.BaseClass - Launch the browser
+20:13:17.164 [main] INFO  factory.BaseClass - User is on the home page
+20:13:17.491 [main] INFO  factory.BaseClass - Mouse over used cars dropdown
+20:13:18.054 [main] INFO  factory.BaseClass - Mouse over used cars dropdown
+20:13:18.444 [main] INFO  factory.BaseClass - Close the browser
+20:13:18.444 [main] INFO  factory.BaseClass - ============Scenario Ended============
+20:13:20.381 [main] INFO  factory.BaseClass - ============Scenario started============
+20:13:20.381 [main] INFO  factory.BaseClass - Launch the browser
+20:13:25.141 [main] INFO  factory.BaseClass - User is on the home page
+20:13:25.473 [main] INFO  factory.BaseClass - Mouse over used cars dropdown
+20:13:25.909 [main] INFO  factory.BaseClass - Mouse over used cars dropdown
+20:13:28.820 [main] INFO  factory.BaseClass - Redirected to the Used cars in chennai page
+20:13:28.958 [main] INFO  factory.BaseClass - Close the browser
+20:13:28.958 [main] INFO  factory.BaseClass - ============Scenario Ended============
+20:13:30.820 [main] INFO  factory.BaseClass - ============Scenario started============
+20:13:30.820 [main] INFO  factory.BaseClass - Launch the browser
+20:13:34.783 [main] INFO  factory.BaseClass - User is on the used cars page
